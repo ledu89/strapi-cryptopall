@@ -14,7 +14,7 @@
     name: "strapi::security",
     config: {
       cors: {
-        origin: ["https://tvoj-vercel-url.vercel.app"],
+        origin: ["https://strapi-cryptopall.onrender.com"],
       },
     },
   };
